@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.BlogItemContainer {
+  height: 200px;
+  width: 80%;
+  display: flex;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.title-topic {
+  display: flex;
+  flex-direction: column;
+}
+.avatar {
+  display: flex;
+}
+.BlogImage {
+  height: 180px;
+  width: 260px;
+}
+.avatarimage {
+  height: 40px;
+  width: 20px;
+}
