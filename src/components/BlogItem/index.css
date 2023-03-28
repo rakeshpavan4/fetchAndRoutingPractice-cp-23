@@ -5,7 +5,7 @@
   width: 80%;
   display: flex;
   padding: 10px;
-  display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 .title-topic {
@@ -14,12 +14,21 @@
 }
 .avatar {
   display: flex;
+  justify-content: space-between;
 }
 .BlogImage {
   height: 180px;
   width: 260px;
+  margin-right: 20px;
 }
 .avatarimage {
   height: 40px;
   width: 20px;
+}
+.title {
+  font-size: 15px;
+  text-decoration: none;
+}
+.author-name {
+  text-decoration: none;
 }
